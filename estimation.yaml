@@ -1,0 +1,28 @@
+sources:
+  time: 
+  knowledge:
+    documentation:
+    tests:
+    people:
+
+result:
+  code:
+  tests:
+  documentation:
+
+settings:
+
+report:
+  quality:
+  time:
+  people:
+  
+  
+example:
+  time:
+  people:
+  efficiency:
+  technologies:
+
+dependencies:
+  
