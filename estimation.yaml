@@ -1,5 +1,8 @@
 sources:
-  time: 
+  time:
+  people:
+    skills: expert, middle, junior
+    availability
   knowledge:
     documentation:
     tests:
