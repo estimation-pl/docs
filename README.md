@@ -60,17 +60,18 @@ Kto będzie wykonywał
 Jakie wersje programowania maja być dostepne
 
 	Na jaka platforme
-	Czy w czystym jezykyu programowania,
+	Czy w czystym jezyku programowania,
 	Czy w okreslonym srodowisku
 	
 	
 Spospoby sprawdzenia poprawnosci
 
 	Czy mozliwosc w jednej linicje
-	Czy trzeba wyklikac
+	Czy trzeba wyklikać
 
 
 Rozpisać warstwy aplikacji i duplikowane rónoległe warstwy do których trzeba zrobić pobrycie
+
 Np.
 modele danych + mysql
 
