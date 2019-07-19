@@ -2,7 +2,7 @@ sources:
   time:
   people:
     skills: expert, middle, junior
-    availability
+    availability: per day, month
   knowledge:
     documentation:
     tests:
