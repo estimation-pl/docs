@@ -77,3 +77,34 @@ modele danych + mysql
 
 Czas wykonania zamiast x2 w przypadku równoległych jest do potęgi, czyli x4
 Bo mogą wystąpić pośrednie błędy
+
+
+
+
+ 
+ # docs
+Estymacja czasu pracy, zasady przeliczania czasu na wykonanie projektów
+
+
+## Zasady przeliczania
+
+1 programista jest bardziej efektywny niż 1 zespół, tzn ma wyższą sprawność, 
+
++ junior = 1-10%
++ middle = do 30%
++ senior = do 90%
+
+w zależności od umiejętności:  
+  + komunikacja
+  + zarządzanie
+  + znajomość technologii w których będzie wykonywany projekt
+  
+Zespół:
+  + ludzie mają już jakieś doświadczenia we współpracy
+  + ukończyli kilka projektów
+    + w czasie, czy po czasie
+  
+  
+# estymon - monitor-ing estymacji
+
+# estimon - monitor estymacji
